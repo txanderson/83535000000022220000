@@ -1,0 +1,14 @@
+ATUALIZACAO SEO - THALITA MACEDO
+
+O que foi alterado:
+- Criada a nova página /terapia-de-casal/ com o H1 solicitado e conteúdo editorial organizado em H2.
+- Adicionado um link visível e discreto para o guia no rodapé da página inicial.
+- Atualizado sitemap.xml para incluir a nova página.
+- Criado css/article.css para o layout do guia, aproveitando as cores e fontes atuais do site.
+
+PUBLICAÇÃO:
+Envie o conteúdo deste ZIP para a raiz do repositório GitHub Pages, mantendo as pastas css, img, js e terapia-de-casal.
+A nova URL será https://thalitamacedo.com.br/terapia-de-casal/ após a publicação.
+
+IMPORTANTE:
+O conteúdo foi mantido visível e legível. Texto invisível, fonte minúscula ou listas artificiais de palavras-chave/cidades podem ser consideradas abuso de texto oculto ou excesso de palavras-chave pelo Google. As cidades e bairros foram mencionados apenas de forma contextual e sem sugerir atendimento presencial onde ele não existe.
