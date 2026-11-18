@@ -3,13 +3,15 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://thalitamacedo.com.br/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <image:image>
-      <image:loc>https://thalitamacedo.com.br/img/hero.webp</image:loc>
-    </image:image>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://thalitamacedo.com.br/img/hero.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://thalitamacedo.com.br/terapia-de-casal/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://thalitamacedo.com.br/terapia-de-casal/itaim-bibi/</loc>
+    <lastmod>2026-11-18</lastmod>
   </url>
 </urlset>

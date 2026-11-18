@@ -1,0 +1,15 @@
+ESTRUTURA COM 3 ENDEREÇOS
+
+1) https://thalitamacedo.com.br/
+2) https://thalitamacedo.com.br/terapia-de-casal/
+3) https://thalitamacedo.com.br/terapia-de-casal/itaim-bibi/
+
+O conteúdo visual, imagens, estilos, scripts, telefone e links de WhatsApp foram mantidos iguais.
+Foram diferenciados apenas title, meta description, canonical, Open Graph/Twitter e os dados da entidade WebPage no JSON-LD.
+
+IMPORTANTE:
+- A página do Itaim Bibi está descrita como atendimento ONLINE para pessoas da região; não afirma existir consultório físico no bairro.
+- Páginas com conteúdo muito semelhante podem ser agrupadas pelo Google e o Google pode escolher outro título/trecho na busca. Meta title e description são sugestões, não garantias de exibição.
+- Para diferenciar melhor o SEO sem alterar telefone, identidade visual ou funcionamento, o ideal é acrescentar conteúdo realmente específico e verdadeiro para cada página.
+- Publique o conteúdo desta pasta na raiz do repositório GitHub Pages, preservando a estrutura de pastas.
+- Depois da publicação, teste os três endereços e envie o sitemap.xml no Google Search Console.

@@ -252,9 +252,6 @@
 }
 .site-footer__logo { display: block; width: fit-content; margin-inline: auto; }
 .site-footer__logo img { width: clamp(200px, 52vw, 260px); height: auto; margin-inline: auto; }
-.site-footer__guide { margin: 1rem auto 0; padding-inline: 1rem; color: var(--clay-700); font-size: .9375rem; }
-.site-footer__guide a { text-decoration: underline; text-underline-offset: .2em; }
-.site-footer__guide a:hover { color: var(--clay-600); }
 .site-footer__copy {
   width: min(100% - 2 * var(--gutter), 1140px); margin: 2.15rem auto 0;
   padding: 1.55rem 0 calc(1.55rem + env(safe-area-inset-bottom, 0px));
